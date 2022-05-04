@@ -12,7 +12,7 @@ technology;
 ## Experience
 
 ### SAP • Potsdam, Germany • 2016 - Present
-Joined the Real Estate department of SAP in 2016 and since then working on 
+Joined SAP in 2016 and for the first 6 years worked in the Real Estate department on 
 [SAP Cloud for Real Estate](https://www.sap.com/products/real-estate-facilities-mgmt-cloud.html): SaaS solution that 
 addresses the main needs of corporate real estate managers. In 2022 moved to Cloud Security department responsible for 
 [SAP Cloud Identity Services](https://help.sap.com/docs/IDENTITY_AUTHENTICATION).
