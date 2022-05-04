@@ -1,3 +1,6 @@
+# Ivan Palianytsia 
+`Pragmatic programmer`
+
 - In the recent years occupied with cloud native applications development;
 - Having solid experience with Spring/Java technology stack, though devoted rather to fundamental aspects of software 
 engineering, such as algorithms, data structures, OO design patterns and principles, than to a particular language or 
