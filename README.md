@@ -102,7 +102,7 @@ search results.
 
 | Ukrainian | Russian | English | German |
 | --------- | ------- | ------- | ------ |
-| Native | Native | Advanced | Intermediate |
+| ★★★★★ | ★★★★★ | ★★★★☆ | ★★★☆☆ |
 
 ## Interests	
 - Artificial intelligence, Cryptography
