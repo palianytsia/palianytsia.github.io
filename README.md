@@ -1,5 +1,3 @@
-# Ivan Palianytsia 
-`Pragmatic programmer`
 - In the recent years occupied with cloud native applications development;
 - Having solid experience with Spring/Java technology stack, though devoted rather to fundamental aspects of software 
 engineering, such as algorithms, data structures, OO design patterns and principles, than to a particular language or 
@@ -101,7 +99,7 @@ search results.
 
 | Ukrainian | Russian | English | German |
 | --------- | ------- | ------- | ------ |
-| :black_circle: :black_circle: :black_circle: :black_circle: | :black_circle: :black_circle: :black_circle: :black_circle: | :black_circle: :black_circle: :black_circle: :white_circle: | :black_circle: :black_circle: :white_circle: :white_circle: |
+| Native | Native | Advanced | Intermediate |
 
 ## Interests	
 - Artificial intelligence, Cryptography
