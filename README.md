@@ -1,7 +1,7 @@
 # Ivan Palianytsia 
 `Pragmatic programmer`
 
-- In the recent years occupied with cloud native applications development;
+- In the recent years occupied with cloud native development;
 - Having solid experience with Spring/Java technology stack, though devoted rather to fundamental aspects of software 
 engineering, such as algorithms, data structures, OO design patterns and principles, than to a particular language or 
 technology;
@@ -12,7 +12,7 @@ technology;
 ## Experience
 
 ### SAP • Potsdam, Germany • 2016 - Present
-Joined SAP in 2016 and for the first 6 years worked in the Real Estate department on 
+Joined SAP in 2016 and the majority of time (6 years) spent in the Real Estate department working on 
 [SAP Cloud for Real Estate](https://www.sap.com/products/real-estate-facilities-mgmt-cloud.html): SaaS solution that 
 addresses the main needs of corporate real estate managers. In 2022 moved to Cloud Security department responsible for 
 [SAP Cloud Identity Services](https://help.sap.com/docs/IDENTITY_AUTHENTICATION).
