@@ -1,8 +1,9 @@
 # Ivan Palianytsia
 `Pragmatic programmer`
 
-- In the recent years occupied with cloud native development;
-- Having solid experience with Spring/Java technology stack, though focusing mainly on fundamental aspects of software
+- 10+ years of software engineering experience;
+- Over the last 5 years occupied with cloud native development;
+- Having solid knowledge of Spring/Java technology stack, though focusing mainly on fundamental aspects of software
   engineering, such as consistency, reliability, efficiency, and maintainability, rather than on a particular language 
   or technology;
 - Familiar with various subject areas (media, gaming, e-commerce, real estate) and needs of various software user 
@@ -12,7 +13,7 @@
 ## Experience
 
 ### SAP • Potsdam, Germany • 2016 - Present
-Joined SAP in 2016 and for 6 years was helping Real Estate department to build and evolve
+Joined SAP in 2016 where until 2021 had been working in Real Estate department on
 [SAP Cloud for Real Estate](https://www.sap.com/products/real-estate-facilities-mgmt-cloud.html): SaaS solution that
 addresses the main needs of corporate real estate managers. In 2022 moved to Cloud Security department responsible for
 [SAP Cloud Identity Services](https://help.sap.com/docs/IDENTITY_AUTHENTICATION).
@@ -50,14 +51,10 @@ __Senior Software Developer__ role.
   executors with message broker.
 
 ### Playtech • Kyiv, Ukraine • 2012 – 2013
-Joined Playtech, world's largest online gaming and sports betting software supplier, in 2012 as a __Java Developer__.
-Although initially assigned to work on slot machine games for mobile devices, shortly after (as a result of clean and
-maintainable code) was asked to join Mobile Core team to help them develop tools & libraries used by other teams in
-game development.
+Joined Playtech, world's largest online gaming and sports betting software supplier, in 2012 as a __Java Developer__. Worked in Mobile Core team on 
+tools & libraries used by other teams in game development, e.g. UI components, event model, animation and asset management.
 
-- Worked on UI components, event model, animation, asset management;
 - Defined and implemented heap-based event propagation model;
-- Decoupled event model for different environments (click vs touch) with Abstract Factory pattern;
 - Applied algorithms from computational geometry.
 
 ### Frmwrk • Kyiv, Ukraine • 2011 – 2012
@@ -100,5 +97,5 @@ Thesis: Automatic determination of web portal nodes importance.
 ## Languages
 
 | Ukrainian | Russian | English | German |
-| --------- | ------- | ------- | ------ |
+| ----- | ----- | ----- | ----- |
 | ★★★★★ | ★★★★★ | ★★★★☆ | ★★★☆☆ |
