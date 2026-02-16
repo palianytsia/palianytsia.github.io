@@ -1,3 +1,9 @@
 title: Ivan Palianytsia
 description: Pragmatic Programmer
 markdown: GFM
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
