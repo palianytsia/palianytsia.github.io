@@ -7,7 +7,7 @@ I shape the team's culture around Extreme Ownership to deliver high-quality soft
 ## CORE COMPETENCIES
 
 * **Leadership:** People Management (up to 10 engineers), Hiring & Interviewing, Performance Management, Strategic Roadmap Planning, Decentralized Command, Mentorship (5+ promotions to Senior/Staff), Cross-Functional Leadership, Incident Response & On-Call.
-* **Technical Stack:** JVM ecosystem (Java/Kotlin, Spring Boot), TypeScript/Node, Kafka, Kubernetes, AWS/GCP.
+* **Technical Stack:** JVM ecosystem (Java/Kotlin, Spring Boot), TypeScript/Node, Kafka, SQL & NoSQL Databases.
 * **Infrastructure & Cloud:** Kubernetes, AWS, GCP, SAP BTP, High-Scale Observability (Datadog, Grafana, ELK Stack), Cloudflare (Global CDN/Caching).
 * **Domain Expertise:** API Management (API Gateways, Credit Systems), Content Delivery (Uploader Services, Media Storage), Customer Engagement (Notifications, DMARC), IAM (OIDC/OAuth, Identity Federation), Trust & Safety (Content Moderation, Automated Reporting).
 
