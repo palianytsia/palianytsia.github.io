@@ -6,8 +6,8 @@ I shape the team's culture around Extreme Ownership to deliver high-quality soft
 
 ## CORE COMPETENCIES
 
-* **Leadership:** People Management (up to 10 engineers), Strategic Roadmap Planning, Decentralized Command, Mentorship (5+ promotions to Senior/Staff), Stakeholder Collaboration.
-* **Technical Stack:** Java/Kotlin (Spring Boot), TypeScript (NestJS), SQL & NoSQL Databases, Redis, Kafka, Spark.
+* **Leadership:** People Management (up to 10 engineers), Hiring & Interviewing, Performance Management, Strategic Roadmap Planning, Decentralized Command, Mentorship (5+ promotions to Senior/Staff), Cross-Functional Leadership, Incident Response & On-Call.
+* **Technical Stack:** JVM ecosystem (Java/Kotlin, Spring Boot), TypeScript/Node, Kafka, Kubernetes, AWS/GCP.
 * **Infrastructure & Cloud:** Kubernetes, AWS, GCP, SAP BTP, High-Scale Observability (Datadog, Grafana, ELK Stack), Cloudflare (Global CDN/Caching).
 * **Domain Expertise:** API Management (API Gateways, Credit Systems), Content Delivery (Uploader Services, Media Storage), Customer Engagement (Notifications, DMARC), IAM (OIDC/OAuth, Identity Federation), Trust & Safety (Content Moderation, Automated Reporting).
 
@@ -18,13 +18,13 @@ I shape the team's culture around Extreme Ownership to deliver high-quality soft
 **Engineering Manager, Platform Services** | March 2024 – Present  
 **Senior Software Engineer, Platform Services** | October 2022 – March 2024
 
-Joined Picsart's Platform Services team as a Senior Engineer to build core infrastructure for a rapidly scaling AI-driven creative platform. Built foundational services from scratch — including the core Email Service — and led the overhaul of the Premium Content Service, replacing a convoluted architecture with a pragmatic design that restored data consistency. Promoted to Engineering Manager, now leading a team of 8 while remaining hands-on in developer tooling, code reviews, and the internal developer portal (Backstage).
+Joined Picsart's Platform Services team as a Senior Engineer to build core infrastructure for a rapidly scaling AI-driven creative platform. Delivered foundational services from scratch and led major architectural overhauls that restored data consistency across core platform systems. Promoted to Engineering Manager in 2024, now leading a team of 8 — while staying technically engaged through architecture reviews, developer tooling, and the internal developer portal (Backstage).
 
 * Designed a seven-domain service ownership model and rolled it out across Backstage, Jira, PagerDuty, GitLab, and Kubernetes — establishing clear ownership, escalation policies, and operational clarity across the team.
-* Onboarded 7 engineers and managed team regrouping during departures; mentored 5 promotions including transitions to Staff level. Built a team culture rooted in psychological safety, achieving 90% satisfaction in anonymous team surveys.
+* Onboarded 7 engineers and navigated team regrouping through departures; mentored 5 promotions including transitions to Staff level. Built a culture rooted in psychological safety, ownership, and direct feedback — reflected in strong retention and sustained engagement.
 * Led the multi-phase delivery of Unified Credit Management — automated credit allocation for web purchases and balance handling for in-app purchases — coordinating across teams to meet tight deadlines.
-* Architected self-service token (PATs) management — eliminating platform bottlenecks and enabling authenticated API testing at scale.
-* Built the team's reputation as a responsive and dependable partner, growing the #help-platform-services channel into one of the company's most active support hubs.
+* Drove self-service initiatives (e.g., PAT management) that removed platform bottlenecks and unblocked developer productivity across engineering.
+* Established the team as one of the company's most trusted platform partners, with strong cross-functional relationships across engineering and product.
 
 ### SAP | Potsdam, Germany
 
