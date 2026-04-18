@@ -18,11 +18,11 @@ I shape the team's culture around Extreme Ownership to deliver high-quality soft
 **Engineering Manager, Platform Services** | March 2024 – Present  
 **Senior Software Engineer, Platform Services** | October 2022 – March 2024
 
-Joined Picsart's Platform Services team as a Senior Engineer to build core infrastructure for a rapidly scaling AI-driven creative platform. Delivered foundational services from scratch and led major architectural overhauls that restored data consistency across core platform systems. Promoted to Engineering Manager in 2024, now leading a team of 8 — while staying technically engaged through architecture reviews, developer tooling, and the internal developer portal (Backstage).
+Joined Picsart's Platform Services team as a Senior Engineer to build core infrastructure for a rapidly scaling AI-driven creative platform. Delivered foundational services from scratch and led major architectural overhauls that restored data consistency across core platform systems. Promoted to Engineering Manager in 2024, now leading a team of 8 - while staying technically engaged through architecture reviews, developer tooling, and the internal developer portal (Backstage).
 
-* Designed a seven-domain service ownership model and rolled it out across Backstage, Jira, PagerDuty, GitLab, and Kubernetes — establishing clear ownership, escalation policies, and operational clarity across the team.
-* Onboarded 7 engineers and navigated team regrouping through departures; mentored 5 promotions including transitions to Staff level. Built a culture rooted in psychological safety, ownership, and direct feedback — reflected in strong retention and sustained engagement.
-* Led the multi-phase delivery of Unified Credit Management — automated credit allocation for web purchases and balance handling for in-app purchases — coordinating across teams to meet tight deadlines.
+* Designed a seven-domain service ownership model and rolled it out across Backstage, Jira, PagerDuty, GitLab, and Kubernetes - establishing clear ownership, escalation policies, and operational clarity across the team.
+* Onboarded 7 engineers and navigated team regrouping through departures; mentored 5 promotions including transitions to Staff level. Built a culture rooted in psychological safety, ownership, and direct feedback - reflected in strong retention and sustained engagement.
+* Led the multi-phase delivery of Unified Credit Management - automated credit allocation for web purchases and balance handling for in-app purchases - coordinating across teams to meet tight deadlines.
 * Drove self-service initiatives (e.g., PAT management) that removed platform bottlenecks and unblocked developer productivity across engineering.
 * Established the team as one of the company's most trusted platform partners, with strong cross-functional relationships across engineering and product.
 
@@ -40,7 +40,7 @@ Joined the SAP Cloud Identity Services team during a pivotal period: SAP was con
 **Senior Software Engineer, SAP Cloud for Real Estate** | January 2018 – March 2019  
 **Software Engineer, SAP Cloud for Real Estate** | January 2016 – December 2017
 
-Grew from Software Engineer to Software Architect over six years on SAP Cloud for Real Estate — a location management SaaS product and one of the first SAP applications to undergo a full cloud transformation.
+Grew from Software Engineer to Software Architect over six years on SAP Cloud for Real Estate - a location management SaaS product and one of the first SAP applications to undergo a full cloud transformation.
 
 * Designed the multi-tenancy architecture ensuring strict data isolation for enterprise clients.
 * Executed the first successful migration of a core SAP application to Cloud Foundry; established the unit-wide blueprint for cloud-native deployments including the transition from legacy web.xml security to JWT-based authentication.
