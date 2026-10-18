@@ -25,10 +25,10 @@ Joined as a Senior Engineer to build core platform services and fix data consist
 
 * Took over Picsart Drive (cloud storage, brand kits, sharing and collaboration; 18 services) and brought it into the team's ownership model, on-call, and roadmap.
 * Made cost efficiency a team priority across content delivery and storage: ~$40k a month saved so far, including a new image-processing service at a third of the old cost, with a further ~$30k a month committed for 2027.
-* Moved picsart.com onto Picsart SSO, giving users one login across all Picsart products, and unified token authentication at the API gateway.
-* Led Unified Credit Management across teams: automated credits for web purchases, balance handling for in-app purchases, and fractional credit pricing for AI tools.
+* Steered identity and access toward one login and self-service: picsart.com now shares Picsart SSO with every other product, the API gateway authenticates all requests one way, and teams manage their own access tokens instead of waiting on Platform.
+* Coordinated Unified Credit Management across teams: automated credits for web purchases, balance handling for in-app purchases, and fractional credit pricing for AI tools.
 * Designed the domain ownership model (one owner and one named backup per domain) and rolled it out across Backstage, Jira, PagerDuty, GitLab, and Kubernetes.
-* Onboarded 7 engineers and kept the team steady through departures and regrouping; mentored 5 promotions, including to Staff. Built self-service tooling (e.g., access token management) so other teams no longer wait on Platform.
+* Onboarded 7 engineers and kept the team steady through departures and regrouping; mentored 5 promotions, including to Staff.
 
 ### SAP | Potsdam, Germany
 
