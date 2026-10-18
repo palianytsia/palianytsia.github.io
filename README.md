@@ -1,66 +1,69 @@
 # IVAN PALIANYTSIA
 
-Pragmatic Engineering Leader with 10+ years experience building high-impact backend systems. Specialist in platform engineering, identity & access management, and cloud-native architectures. Currently leading a mission-critical platform team at Picsart, managing foundational services for an AI-driven creative suite with 150M+ monthly active users. 
+Engineering leader with 15+ years building backend systems. I lead Platform Services at Picsart: the shared backend every Picsart product builds on, serving 150M+ monthly active users. It covers sign-in, credits, file storage and delivery, notifications, and the framework AI tools run on. Background in platform engineering, identity & access management, and cloud-native architecture.
 
-I shape the team's culture around Extreme Ownership to deliver high-quality software at scale. Engineers lead their domains with full autonomy, prioritize ruthlessly under pressure, and cover for each other to ensure the most critical objective is always met.
+I run the team on ownership. Every engineer owns a domain end to end, has a named backup, and makes the calls in it. We prioritize hard and cover for each other, so the most important work always ships.
 
 ## CORE COMPETENCIES
 
-* **Leadership:** People Management (up to 10 engineers), Hiring & Interviewing, Performance Management, Strategic Roadmap Planning, Decentralized Command, Mentorship (5+ promotions to Senior/Staff), Cross-Functional Leadership, Incident Response & On-Call.
+* **Leadership:** People Management (up to 10 engineers), Hiring & Interviewing, Performance Management, Roadmap & Budget Planning, Mentorship (5 promotions to Senior/Staff), Cross-Functional Leadership, Incident Response & On-Call.
 * **Technical Stack:** JVM ecosystem (Java/Kotlin, Spring Boot), TypeScript/Node, Kafka, SQL & NoSQL Databases.
-* **Infrastructure & Cloud:** Kubernetes, AWS, GCP, SAP BTP, High-Scale Observability (Datadog, Grafana, ELK Stack), Cloudflare (Global CDN/Caching).
-* **Domain Expertise:** API Management (API Gateways, Credit Systems), Content Delivery (Uploader Services, Media Storage), Customer Engagement (Notifications, DMARC), IAM (OIDC/OAuth, Identity Federation), Trust & Safety (Content Moderation, Automated Reporting).
+* **Infrastructure & Cloud:** Kubernetes, AWS, GCP, SAP BTP, Observability (Datadog, Grafana, ELK Stack), Cloudflare CDN.
+* **Domain Expertise:** Identity & Access (OIDC/OAuth, SSO, Identity Federation), API Management (API Gateways, Credit Systems), Content Delivery (Uploads, Image Processing, CDN), Cloud Storage & Collaboration, Notifications, AI Workflow Platforms, Trust & Safety (Content Moderation, Reporting).
 
 ## PROFESSIONAL EXPERIENCE
 
 ### PICSART | Berlin, Germany
 
-**Engineering Manager, Platform Services** | March 2024 – Present  
+**Senior Engineering Manager, Platform Services** | June 2026 – Present  
+**Engineering Manager, Platform Services** | March 2024 – June 2026  
 **Senior Software Engineer, Platform Services** | October 2022 – March 2024
 
-Joined Picsart's Platform Services team as a Senior Engineer to build core infrastructure for a rapidly scaling AI-driven creative platform. Delivered foundational services from scratch and led major architectural overhauls that restored data consistency across core platform systems. Promoted to Engineering Manager in 2024, now leading a team of 8 - while staying technically engaged through architecture reviews, developer tooling, and the internal developer portal (Backstage).
+Joined as a Senior Engineer to build core platform services and fix data consistency across them. Promoted to Engineering Manager in 2024, and to Senior Engineering Manager in 2026 when Picsart Drive moved into Platform Services. Today I lead 8 engineers running 80+ services across eight domains, and stay hands-on through architecture reviews, developer tooling, and the Backstage developer portal.
 
-* Designed a seven-domain service ownership model and rolled it out across Backstage, Jira, PagerDuty, GitLab, and Kubernetes - establishing clear ownership, escalation policies, and operational clarity across the team.
-* Onboarded 7 engineers and navigated team regrouping through departures; mentored 5 promotions including transitions to Staff level. Built a culture rooted in psychological safety, ownership, and direct feedback - reflected in strong retention and sustained engagement.
-* Led the multi-phase delivery of Unified Credit Management - automated credit allocation for web purchases and balance handling for in-app purchases - coordinating across teams to meet tight deadlines.
-* Drove self-service initiatives (e.g., PAT management) that removed platform bottlenecks and unblocked developer productivity across engineering.
-* Established the team as one of the company's most trusted platform partners, with strong cross-functional relationships across engineering and product.
+* Took over Picsart Drive (cloud storage, brand kits, sharing and collaboration; 18 services) and brought it into the team's ownership model, on-call, and roadmap.
+* Replaced the legacy image-processing service with Minas, built on imgproxy: infrastructure cost down from ~$15k to ~$5k a month on a quarter of the hardware, 14% faster at p95, and new formats (AVIF, HEIC, SVG).
+* Cut Google Cloud Storage spend by ~$30k a month together with partner teams, with a further ~$31k a month committed for 2027.
+* Moved picsart.com onto Picsart SSO, giving users one login across all Picsart products, and unified token authentication at the API gateway.
+* Led Unified Credit Management across teams: automated credits for web purchases, balance handling for in-app purchases, and fractional credit pricing for AI tools.
+* Designed the domain ownership model (one owner and one named backup per domain) and rolled it out across Backstage, Jira, PagerDuty, GitLab, and Kubernetes.
+* Onboarded 7 engineers and kept the team steady through departures and regrouping; mentored 5 promotions, including to Staff. Built self-service tooling (e.g., access token management) so other teams no longer wait on Platform.
 
 ### SAP | Potsdam, Germany
 
 **Cloud Security Engineer, SAP Cloud Identity Services** | January 2022 – October 2022
 
-Joined the SAP Cloud Identity Services team during a pivotal period: SAP was consolidating its identity platform (IAS + IPS) and driving the industry-wide migration from SAML 2.0 to OAuth 2.0/OIDC-based federation across thousands of enterprise clients.
+Joined while SAP was consolidating its identity platform (IAS + IPS) and moving thousands of enterprise customers from SAML 2.0 to OAuth 2.0/OIDC federation.
 
-* Advanced the evolution of OIDC capabilities for SAP Cloud Identity Services, accelerating adoption of modern identity federation.
-* Architected authentication flows for thousands of enterprise clients, integrating SAP IAM with corporate IdPs (Azure AD, Okta) via OIDC and JWT.
-* Implemented automated signing-key rotation and risk-based authentication policies, hardening the security posture of the SAP BTP ecosystem.
+* Extended OIDC support in SAP Cloud Identity Services, speeding up customer adoption of modern identity federation.
+* Designed authentication flows connecting SAP IAM to corporate identity providers (Azure AD, Okta) via OIDC and JWT for thousands of enterprise customers.
+* Implemented automatic signing-key rotation and risk-based authentication policies across SAP BTP.
 
 **Software Architect, SAP Cloud for Real Estate** | March 2019 – December 2021  
 **Senior Software Engineer, SAP Cloud for Real Estate** | January 2018 – March 2019  
 **Software Engineer, SAP Cloud for Real Estate** | January 2016 – December 2017
 
-Grew from Software Engineer to Software Architect over six years on SAP Cloud for Real Estate - a location management SaaS product and one of the first SAP applications to undergo a full cloud transformation.
+Grew from Software Engineer to Software Architect over six years on SAP Cloud for Real Estate, a location management SaaS product and one of the first SAP applications to move fully to the cloud.
 
-* Designed the multi-tenancy architecture ensuring strict data isolation for enterprise clients.
-* Executed the first successful migration of a core SAP application to Cloud Foundry; established the unit-wide blueprint for cloud-native deployments including the transition from legacy web.xml security to JWT-based authentication.
-* Architected a cross-platform analytics engine (SAP Analytics Cloud + S/4HANA) consolidating real estate and financial data into a single source of truth.
+* Designed the multi-tenancy architecture with strict data isolation between enterprise customers.
+* Led the first migration of a core SAP application to Cloud Foundry, which became the unit-wide blueprint for cloud-native deployments, including the move from web.xml security to JWT-based authentication.
+* Designed an analytics engine across SAP Analytics Cloud and S/4HANA that brought real estate and financial data into a single source of truth.
 
 ### VISUAL META GMBH | Berlin, Germany
 
 **Senior Software Engineer** | January 2015 – December 2015  
 **Software Engineer** | January 2013 – December 2014
 
-Joined Visual Meta during its high-growth phase shortly after the Axel Springer acquisition. Contributed to the global rollout of shopping portals (LadenZeile, ShopAlike, UmSóLugar) serving millions of users across Europe. In 2015, became one of the first three engineers promoted to the newly established Senior role in recognition of technical leadership and impact.
+Joined during the high-growth phase after the Axel Springer acquisition and helped roll out shopping portals (LadenZeile, ShopAlike, UmSóLugar) to millions of users across Europe. In 2015, one of the first three engineers promoted to the newly created Senior role.
 
-* Migrated high-load indexing jobs to Hadoop, cutting processing windows for millions of product listings.
-* Decoupled the API gateway via message brokers, replacing the monolith to improve resilience and developer velocity.
-* Led a 3-engineer team building data import/export services and a Salesforce integration for seamless marketing-engineering data flow.
+* Moved high-load indexing jobs for millions of product listings to Hadoop, cutting processing time.
+* Split the monolithic API gateway using message brokers, improving resilience and developer speed.
+* Led a team of 3 building data import/export services and a Salesforce integration between marketing and engineering.
 
 ### EARLY CAREER | Kyiv, Ukraine
 
 **Playtech** | Software Engineer | 2012 – 2013  
-Built core components for game development (event model, animation, and asset management) within the world's largest online gaming and sports betting software supplier. Applied computational geometry algorithms to enhance the mobile gaming experience.
+Built core game development components (event model, animation, asset management) at the world's largest online gaming software supplier. Applied computational geometry to improve the mobile gaming experience.
 
 **FRMWRK** | Software Engineer | 2011 – 2012  
 Delivered Drupal-based web projects for clients in the Netherlands.
@@ -69,7 +72,7 @@ Delivered Drupal-based web projects for clients in the Netherlands.
 Developed and maintained one of the world's largest multi-site Drupal installations for Denmark's leading newspaper group.
 
 **Vertykal** | Software Engineer | 2007 – 2010  
-Engineered a ride-hailing platform with automated routing and real-time mobile communication.
+Built a ride-hailing platform with automated routing and real-time mobile communication.
 
 ## EDUCATION
 
