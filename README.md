@@ -1,5 +1,7 @@
 # IVAN PALIANYTSIA
 
+Berlin, Germany · [ivan.palianytsia@gmail.com](mailto:ivan.palianytsia@gmail.com) · [linkedin.com/in/palianytsia](https://www.linkedin.com/in/palianytsia)
+
 Engineering leader with 15+ years building backend systems. I lead Platform Services at Picsart: the shared backend every Picsart product builds on, serving 150M+ monthly active users. It covers sign-in, credits, file storage and delivery, notifications, and the framework AI tools run on. Background in platform engineering, identity & access management, and cloud-native architecture.
 
 I run the team on ownership. Every engineer owns a domain end to end, has a named backup, and makes the calls in it. We prioritize hard and cover for each other, so the most important work always ships.
