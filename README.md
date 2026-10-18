@@ -18,8 +18,8 @@ I run the team on ownership. Every engineer owns a domain end to end, has a name
 ### PICSART | Berlin, Germany
 
 **Senior Engineering Manager, Platform Services** | June 2026 – Present  
-**Engineering Manager, Platform Services** | March 2024 – June 2026  
-**Senior Software Engineer, Platform Services** | October 2022 – March 2024
+**Engineering Manager, Platform Services** | March 2024 – May 2026  
+**Senior Software Engineer, Platform Services** | October 2022 – February 2024
 
 Joined as a Senior Engineer to build core platform services and fix data consistency across them. Promoted to Engineering Manager in 2024, and to Senior Engineering Manager in 2026 when Picsart Drive moved into Platform Services. Today I lead 8 engineers running 80+ services across eight domains, and stay hands-on through architecture reviews, developer tooling, and the Backstage developer portal.
 
@@ -41,7 +41,7 @@ Joined while SAP was consolidating its identity platform (IAS + IPS) and moving 
 * Implemented automatic signing-key rotation and risk-based authentication policies across SAP BTP.
 
 **Software Architect, SAP Cloud for Real Estate** | March 2019 – December 2021  
-**Senior Software Engineer, SAP Cloud for Real Estate** | January 2018 – March 2019  
+**Senior Software Engineer, SAP Cloud for Real Estate** | January 2018 – February 2019  
 **Software Engineer, SAP Cloud for Real Estate** | January 2016 – December 2017
 
 Grew from Software Engineer to Software Architect over six years on SAP Cloud for Real Estate, a location management SaaS product and one of the first SAP applications to move fully to the cloud.
