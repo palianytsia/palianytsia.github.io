@@ -24,8 +24,7 @@ I run the team on ownership. Every engineer owns a domain end to end, has a name
 Joined as a Senior Engineer to build core platform services and fix data consistency across them. Promoted to Engineering Manager in 2024, and to Senior Engineering Manager in 2026 when Picsart Drive moved into Platform Services. Today I lead 8 engineers running 80+ services across eight domains, and stay hands-on through architecture reviews, developer tooling, and the Backstage developer portal.
 
 * Took over Picsart Drive (cloud storage, brand kits, sharing and collaboration; 18 services) and brought it into the team's ownership model, on-call, and roadmap.
-* Replaced the legacy image-processing service with Minas, built on imgproxy: infrastructure cost down from ~$15k to ~$5k a month on a quarter of the hardware, 14% faster at p95, and new formats (AVIF, HEIC, SVG).
-* Cut Google Cloud Storage spend by ~$30k a month together with partner teams, with a further ~$31k a month committed for 2027.
+* Made cost efficiency a team priority across content delivery and storage: ~$40k a month saved so far, including a new image-processing service at a third of the old cost, with a further ~$30k a month committed for 2027.
 * Moved picsart.com onto Picsart SSO, giving users one login across all Picsart products, and unified token authentication at the API gateway.
 * Led Unified Credit Management across teams: automated credits for web purchases, balance handling for in-app purchases, and fractional credit pricing for AI tools.
 * Designed the domain ownership model (one owner and one named backup per domain) and rolled it out across Backstage, Jira, PagerDuty, GitLab, and Kubernetes.
