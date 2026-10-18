@@ -32,7 +32,7 @@ Joined as a Senior Engineer to build core platform services and fix data consist
 
 ### SAP | Potsdam, Germany
 
-**Cloud Security Engineer, SAP Cloud Identity Services** | January 2022 – October 2022
+**Cloud Security Engineer, SAP Cloud Identity Services** | January 2022 – September 2022
 
 Joined while SAP was consolidating its identity platform (IAS + IPS) and moving thousands of enterprise customers from SAML 2.0 to OAuth 2.0/OIDC federation.
 
